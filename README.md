@@ -1,16 +1,19 @@
-## Hi there 👋
+Hi there 👋
 
-<!--
-**nutvirat/nutvirat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑 About Me
 
-Here are some ideas to get you started:
+- Student / maker / tinkerer
+- Interested in embedded, Linux, and robotics
+- Working with ESP32, Arduino, and automation projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Tech I Use
+
+- C / Arduino
+- Html
+- Python
+- Linux
+- Git
+
+🚀 Current Projects
+
+- ESP32S3 RC car
