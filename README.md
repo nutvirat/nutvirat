@@ -15,5 +15,3 @@ Hi there 👋
 - Git
 
 🚀 Current Projects
-
-- ESP32S3 RC car
